@@ -27,7 +27,7 @@ day_job:     IFS Developer — ERP customization & PL/SQL
 this_repo:   My playground for hobby & side projects 🧪
 hobby_stack: Java · Spring Boot · TypeScript · React · React Native
 also:        CS Master's student
-currently:   Master's thesis — SmartDesk AI (ticketing + AI)
+offline:     Gym · running · cycling 🏋️ 🏃 🚴
 mindset:     "First make it work, then make it elegant."
 ```
 
