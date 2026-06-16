@@ -110,17 +110,6 @@ mindset:     "First make it work, then make it elegant."
 
 ---
 
-<!-- ====================== TROPHIES ====================== -->
-## 🏆 Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=WalkmanOfWar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4)
-
-</div>
-
----
-
 <!-- ====================== SNAKE ANIMATION ====================== -->
 ## 🐍 Contribution Graph
 
